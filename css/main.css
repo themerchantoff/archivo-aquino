@@ -102,9 +102,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-*{
-    font-family: 'Roboto Mono', monospace;
-}
+  .custom-font-heading{
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .custom-font-copy{
+    font-family: 'Overpass', sans-serif;
+  }
 
 
 
