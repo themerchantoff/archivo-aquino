@@ -61,13 +61,10 @@ audio,
 canvas,
 iframe,
 img {
-    width: 100%
+    
 }
 
-img:hover {
-    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
-    filter: blur(4px);
-}
+
 
 svg,
 video {
@@ -120,7 +117,15 @@ textarea {
 
 
 
+.full-width{
+  width: 100%;
+  max-width: 100%;
+}
 
+.blur:hover {
+    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    filter: blur(4px);
+}
 
 
 
