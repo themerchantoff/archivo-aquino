@@ -126,6 +126,9 @@ textarea {
     webkit-filter: blur(4px); /* Chrome, Safari, Opera */
     filter: blur(4px);
 }
+.margin-home{
+  margin-top: 20px;
+}
 
 
 
