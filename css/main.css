@@ -131,6 +131,15 @@ textarea {
 }
 
 
+ .txt-menu{
+    font-size: 32px;
+    font-weight: 600;
+    position: absolute;
+    top: 139px;
+    left: 135px;
+    color: #ffffee;
+    text-shadow: 1px 1px 12px #000011;
+}
 
 
 
